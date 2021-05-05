@@ -13,6 +13,6 @@ All arm64/e jailbroken devices on iOS 12~14
 1. Run Terminal
 2. vnodebypass -s
 3. vnodebypass -h
-4. Launch app.
-5. To disable hide, vnodebypass -r
+4. Launch and use app.
+5. When you're done using the app, vnodebypass -r
 6. And finally, vnodebypass -R to prevent panic.
