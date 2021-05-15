@@ -9,6 +9,9 @@ All arm64/e jailbroken devices on iOS 12~14
 - jelbrekLib by @jakeashacks
 - Import jailbreak file plist by @halo_michael
 
+## Requirements 
+- libkrw (source: https://apt.binger.com)
+
 ## How to use
 1. Run Terminal
 2. vnodebypass -s
